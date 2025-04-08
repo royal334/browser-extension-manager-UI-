@@ -24,7 +24,7 @@ This is a solution to the [Browser extensions manager UI challenge on Frontend M
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Shadcn] (https://ui.shadcn.com) - UI library
+- [Shadcn](https://ui.shadcn.com) - UI library
 
 ## Author
 
